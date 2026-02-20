@@ -610,6 +610,7 @@
 
 - [Rust by Example](https://doc.rust-lang.org/stable/rust-by-example/index.html)
 - [The Rust Programming Language (Book)](https://doc.rust-lang.org/book/)
+- [Wisp - Minimal async web framework in Rust](https://github.com/rotsl/wisp)
 
 ## Serverless
 
